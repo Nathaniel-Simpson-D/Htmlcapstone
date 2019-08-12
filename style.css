@@ -1,0 +1,29 @@
+body{
+    
+    background-color: khaki;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 12pt;
+color: navy;
+
+  
+   
+}
+.item{
+   
+   
+    font-size: 14pt; 
+    background-color: aquamarine;
+    color: olive;
+    
+}
+#cart{
+    font-size: 14;
+    background-color: yellow;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.cart-item{
+    background-position: relative left; 
+    
+    font-size: 14pt; 
+}
